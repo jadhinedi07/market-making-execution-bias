@@ -1,0 +1,11 @@
+# Keep licensed market data and private evaluation outputs out of this repository.
+data/
+results/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.env
+.env.*
+*.zip
+.venv/
